@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 40px 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+        
+        h1 {
+            color: #667eea;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            color: #666;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        
+        .contact {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .contact a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        
+        .contact a:hover {
+            color: #764ba2;
+        }
+        
+        .section {
+            background: white;
+            padding: 30px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+        
+        .section h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .item {
+            margin-bottom: 20px;
+        }
+        
+        .item h3 {
+            color: #333;
+            margin-bottom: 5px;
+        }
+        
+        .item-subtitle {
+            color: #666;
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+        }
+        
+        .skill {
+            background: #f0f0f0;
+            padding: 10px 15px;
+            border-radius: 5px;
+            text-align: center;
+            color: #667eea;
+            font-weight: 500;
+        }
+        
+        footer {
+            text-align: center;
+            color: white;
+            padding: 20px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Your Name</h1>
+            <p class="subtitle">Content Creator | Digital Marketer | Problem Solver</p>
+            <div class="contact">
+                <a href="mailto:your.email@gmail.com">Email</a>
+                <a href="https://linkedin.com">LinkedIn</a>
+                <a href="https://github.com">GitHub</a>
+            </div>
+        </header>
+        
+        <div class="section">
+            <h2>About Me</h2>
+            <p>I'm a passionate professional focused on digital content creation, marketing analytics, and business development. With experience in video production and strategic planning, I thrive on solving complex problems and creating meaningful impact.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Skills</h2>
+            <div class="skills-grid">
+                <div class="skill">Video Editing</div>
+                <div class="skill">Content Creation</div>
+                <div class="skill">Digital Marketing</div>
+                <div class="skill">Analytics</div>
+                <div class="skill">Strategic Planning</div>
+                <div class="skill">Business Development</div>
+                <div class="skill">Communication</div>
+                <div class="skill">Project Management</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>Projects</h2>
+            <div class="item">
+                <h3>Digital Content Strategy</h3>
+                <p class="item-subtitle">2024 - Present</p>
+                <p>Developed and executed comprehensive content strategies across multiple platforms, resulting in increased engagement and audience growth.</p>
+            </div>
+            <div class="item">
+                <h3>Marketing Analytics Dashboard</h3>
+                <p class="item-subtitle">2024</p>
+                <p>Created data-driven insights using analytics tools to optimize marketing campaigns and improve ROI.</p>
+            </div>
+            <div class="item">
+                <h3>Business Consulting Project</h3>
+                <p class="item-subtitle">2023 - 2024</p>
+                <p>Provided strategic recommendations for business growth and operational efficiency.</p>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>Education</h2>
+            <div class="item">
+                <h3>Madhyanchal Professional University</h3>
+                <p class="item-subtitle">Relevant Coursework</p>
+                <p>Business Management | Digital Marketing | Content Creation</p>
+            </div>
+            <div class="item">
+                <h3>TEFL/TESOL Certification</h3>
+                <p class="item-subtitle">English Teaching</p>
+                <p>Professional certification for teaching English as a foreign language.</p>
+            </div>
+        </div>
+        
+        <footer>
+            <p>&copy; 2024 Your Portfolio. Built with passion. | Hosting: GitHub Pages</p>
+        </footer>
+    </div>
+</body>
+</html>
