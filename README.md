@@ -41,6 +41,12 @@ Developed multiple web projects leveraging AI tools for design and development, 
 ### Web Development Learning Projects (2023 - 2024)
 Completed various web development projects to strengthen technical skills in frontend and backend technologies, responsive design, and version control with Git/GitHub.
 
+### IdeaPath - Idea Management Platform (NOV 25, 2025)
+
+Built an innovative idea management and tracking platform completed within one day using Base44. Features include secure user authentication, idea creation, organization, and sharing capabilities. Demonstrates rapid full-stack development skills and ability to create functional applications with modern web technologies.
+
+🔗 **Live Project:** [https://idea-path-3c8193a4.base44.app](https://idea-path-3c8193a4.base44.app)
+
 ---
 
 ## 🌐 Let's Connect!
