@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm **Ritish**, a passionate **Fresher & AI-Powered Web Developer** with a strong foundation in Computer Science. I recently completed my B.Tech in Computer Science Engineering from **Madhyanchal Professional University** with a **SGPA of 7.4**.
+Hello! I'm **Ritish**, a passionate **Fresher & AI-Powered Web Developer** with a strong foundation in Computer Science. I recently completed my B.Tech in Computer Science Engineering from **Madhyanchal Professional University**.
 
 I specialize in building modern, responsive web applications using AI-powered tools and technologies. I'm enthusiastic about learning new technologies, solving complex problems, and creating meaningful digital solutions.
 
@@ -10,10 +10,9 @@ I specialize in building modern, responsive web applications using AI-powered to
 
 ## 🎓 Education
 
-- **B.Tech in Computer Science Engineering**
-  - Madhyanchal Professional University
-  - SGPA: 7.4
-  - Relevant Coursework: Web Development, Data Structures, Database Management, Software Engineering
+- **🎓 B.Tech in Computer Science Engineering**
+      - 🏫 **Madhyanchal Professional University**
+    - 💻 **Computer Science & Engineering**
 
 ---
 
