@@ -17,22 +17,16 @@ I specialize in building modern, responsive web applications using AI-powered to
 
 ---
 
-## 💼 Technical Skills
+## 🎨 Core Skills
 
-**Frontend Development:**
-- HTML5 & CSS3
-- JavaScript
-- Responsive Design
-
-**Web Technologies:**
-- GitHub & Git Version Control
-- GitHub Pages Hosting
-- Web Development Frameworks
-
-**Soft Skills:**
-- Problem Solving
-- Communication
-- Project Management
+- Creative Problem Solving
+- Quick Learner & Adaptable
+- Strong Communication Skills
+- Team Collaboration
+- Time Management
+- Self-Motivated & Proactive
+- Attention to Detail
+- Critical Thinking
 
 ---
 
